@@ -1,10 +1,16 @@
 <div align="center">
 
-# 🧩 SOLVIFY 
-
-<img src="./logo.png" alt="Solvify Club Logo" width="180"/>
-
-### *Innovate • Collaborate • Solve*
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="./logo.png" alt="Solvify Club Logo" width="100%"/>
+    </td>
+    <td align="left" valign="middle">
+      <h1>🧩 SOLVIFY</h1>
+      <h3><i>Innovate • Collaborate • Solve</i></h3>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="#-about-solvify"><img src="https://img.shields.io/badge/ℹ️_About-black?style=for-the-badge" /></a>
@@ -55,9 +61,17 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/solvify-club-nmit/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/solvify_nmit/)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github)](https://github.com/Solvify-NMIT)
+<a href="https://www.linkedin.com/company/solvify-club-nmit/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/solvify_nmit/">
+  <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="https://github.com/Solvify-NMIT">
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+</a>
 
 </div>
 
