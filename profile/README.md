@@ -2,12 +2,12 @@
 
 <table>
   <tr>
-    <td align="center" width="200">
-      <img src="./logo.png" alt="Solvify Club Logo" width="100%"/>
+    <td align="center" width="215">
+      <img src="./logo.png" alt="Solvify Club Logo" width="215"/>
     </td>
     <td align="left" valign="middle">
-      <h1>🧩 SOLVIFY</h1>
-      <h3><i>Innovate • Collaborate • Solve</i></h3>
+      <h1>&nbsp;&nbsp;🧩 SOLVIFY</h1>
+      <h3>&nbsp;&nbsp;&nbsp;&nbsp;<i>Innovate • Collaborate • Solve</i></h3>
     </td>
   </tr>
 </table>
