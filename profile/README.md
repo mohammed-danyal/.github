@@ -12,13 +12,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="#-about-solvify"><img src="https://img.shields.io/badge/ℹ️_About-black?style=for-the-badge" /></a>
-  <a href="#-what-defines-us"><img src="https://img.shields.io/badge/🌟_Values-black?style=for-the-badge" /></a>
-  <a href="#-upcoming-events"><img src="https://img.shields.io/badge/📅_Events-black?style=for-the-badge" /></a>
-  <a href="#-connect-with-us"><img src="https://img.shields.io/badge/🤝_Connect-black?style=for-the-badge" /></a>
-</p>
-
 [![GitHub Stars](https://img.shields.io/github/stars/Solvify-NMIT?style=social)](https://github.com/Solvify-NMIT)
 [![Followers](https://img.shields.io/github/followers/Solvify-NMIT?style=social)](https://github.com/Solvify-NMIT)
 
@@ -53,7 +46,6 @@
 | :--- | :--- | :--- |
 | **ByteBattle 3.0** | February 28th | 🟢 **Registering** |
 | **Open Source Workshop** | April 2nd | 🟡 Coming Soon |
-| **Ideathon 2.0** | TBD | ⚪ Planning |
 
 ---
 
@@ -74,8 +66,6 @@
 </a>
 
 </div>
-
----
 
 <div align="center">
 
