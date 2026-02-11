@@ -6,8 +6,8 @@
       <img src="./logo.png" alt="Solvify Club Logo" width="215"/>
     </td>
     <td align="left" valign="middle">
-      <h1>&nbsp;&nbsp;🧩 SOLVIFY</h1>
-      <h3>&nbsp;&nbsp;&nbsp;&nbsp;<i>Innovate • Collaborate • Solve</i></h3>
+      <h1>&nbsp;&nbsp;SOLVIFY</h1>
+      <h3>&nbsp;&nbsp;&nbsp;&nbsp;<i>BRIDGING GAPS•SOLVING CHALLENGES</i></h3>
     </td>
   </tr>
 </table>
